@@ -71,7 +71,7 @@ class Maze {
                 } else if cell == Cell.Wall {
                     print("[]", separator: "", terminator: "")
                 } else if cell == Cell.Path {
-                    print(" P", separator: "", terminator: "")
+                    print(" *", separator: "", terminator: "")
                 } else if cell == Cell.Start {
                     print(" S", separator: "", terminator: "")
                 } else {
