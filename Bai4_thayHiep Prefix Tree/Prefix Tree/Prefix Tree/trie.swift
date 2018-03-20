@@ -29,7 +29,7 @@ class Trie {
     var root = Node()
 
     var allWords = [String]()
-     let path = "/Users/dailong/Desktop/Data Structure and Algorithm/Prefix Tree/Prefix Tree/dic.txt" //this is the file. we will write to and read from it
+     let path = "/Users/dailong/Desktop/Data Structure and Algorithm/Bai4_thayHiep Prefix Tree/Prefix Tree/dic.txt" //this is the file. we will write to and read from it
     init() {
         do {
             // Get the contents

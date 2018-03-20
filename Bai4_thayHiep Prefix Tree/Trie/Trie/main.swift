@@ -29,7 +29,20 @@ class Trie {
     var root = Node()
 
     var allWords = [String]()
-
+    let path = "/Users/dailong/Desktop/Data Structure and Algorithm/Bai4_thayHiep Prefix Tree/Trie/dic.txt" //this is the file. we will write to and read from it
+    init() {
+        do {
+            // Get the contents
+            let contents = try NSString(contentsOfFile: path, encoding: String.Encoding.utf8.rawValue)
+            let lines : [String] = contents.components(separatedBy: "\n")
+            for string in lines {
+                self.insert(word: string)
+            }
+        }
+        catch let error as NSError {
+            print("Ooops! Something went wrong: \(error)")
+        }
+    }
     
     func insert(word: String) {
         guard (!word.isEmpty) else {return} //word rong thi thoat
@@ -98,16 +111,6 @@ extension Trie {
 
 var test = Trie()
 
-let path = "/Users/dailong/Desktop/Data Structure and Algorithm/Prefix Tree/Trie/dic.txt" //this is the file. we will write to and read from it
-do {
-    // Get the contents
-    let contents = try NSString(contentsOfFile: path, encoding: String.Encoding.utf8.rawValue)
-    let lines : [String] = contents.components(separatedBy: "\n")
-    for string in lines {
-        test.insert(word: string)
-    }
-}
-catch let error as NSError {
-    print("Ooops! Something went wrong: \(error)")
-}
+
+
 print(test.search(word: "he"))
