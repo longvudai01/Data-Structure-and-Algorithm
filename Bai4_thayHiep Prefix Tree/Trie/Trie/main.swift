@@ -113,4 +113,4 @@ var test = Trie()
 
 
 
-print(test.search(word: "he"))
+print(test.search(word: "hell"))

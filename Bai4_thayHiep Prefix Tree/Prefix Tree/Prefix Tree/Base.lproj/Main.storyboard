@@ -18,18 +18,18 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Xz8-EC-Mzk">
-                                <rect key="frame" x="67.5" y="245" width="240" height="128"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <rect key="frame" x="47.5" y="245" width="280" height="400"/>
+                                <color key="backgroundColor" red="0.90196079019999997" green="0.90196079019999997" blue="0.90196079019999997" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="240" id="8at-S9-MbF"/>
-                                    <constraint firstAttribute="height" constant="128" id="IeQ-SS-149"/>
+                                    <constraint firstAttribute="width" constant="280" id="8at-S9-MbF"/>
+                                    <constraint firstAttribute="height" constant="400" id="IeQ-SS-149"/>
                                 </constraints>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" id="CCr-Zs-AhK">
-                                        <rect key="frame" x="0.0" y="28" width="240" height="44"/>
+                                        <rect key="frame" x="0.0" y="28" width="280" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="CCr-Zs-AhK" id="fIJ-wL-ODU">
-                                            <rect key="frame" x="0.0" y="0.0" width="240" height="43.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="280" height="43.5"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
                                     </tableViewCell>
@@ -43,13 +43,14 @@
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u8O-lY-z9L">
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="30"/>
-                                        <state key="normal" title="Button"/>
+                                        <state key="normal" title="add word"/>
                                         <connections>
                                             <action selector="addBtn:" destination="BYZ-38-t0r" eventType="touchUpInside" id="goH-oM-R4r"/>
                                         </connections>
                                     </button>
                                     <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="mIh-QN-iy6">
                                         <rect key="frame" x="0.0" y="40" width="375" height="30"/>
+                                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="textColor"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits"/>
@@ -57,6 +58,8 @@
                                 </subviews>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="70" id="FdL-pV-n7P"/>
+                                    <constraint firstItem="mIh-QN-iy6" firstAttribute="leading" secondItem="b8E-DB-zxW" secondAttribute="leading" constant="20" id="Sfu-5I-BYF"/>
+                                    <constraint firstAttribute="trailing" secondItem="mIh-QN-iy6" secondAttribute="trailing" constant="20" id="nRi-OI-aWt"/>
                                 </constraints>
                             </stackView>
                         </subviews>

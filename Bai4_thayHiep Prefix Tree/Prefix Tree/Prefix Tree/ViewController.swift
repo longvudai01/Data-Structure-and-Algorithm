@@ -28,8 +28,9 @@ class ViewController: UIViewController {
     }
     
     func searchAutocompleteEntriesWithSubstring(_ substring: String) {
-        test.search(word: substring)
         autoComplete.removeAll(keepingCapacity: false)
+        test.allWords.removeAll()
+        test.search(word: substring)
         for key in test.allWords {
             let myString:NSString! = key as NSString
             let substringRange :NSRange! = myString.range(of: substring)
@@ -43,9 +44,7 @@ class ViewController: UIViewController {
     
     func addWord(textField: UITextField) {
         let textToAdd = textField.text ?? ""
-        test.search(word: textToAdd)
-        print(test.allWords)
-        print(test.search(word: "he"))
+        test.insert(word: textToAdd)
     }
     
     @IBAction func addBtn(_ sender: UIButton) {

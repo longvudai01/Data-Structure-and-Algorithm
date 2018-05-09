@@ -1,0 +1,1304 @@
+@timer
+- đồng hồ bấm giờ
+- counter t. đồng hồ đếm
+@tolerable
+- cho phép được
+@tolerance
+- sự cho phép, độ dung sai
+@tolerate
+- cho phép
+@toll
+- (toán kinh tế) thuế cầu, thuế đường
+@tome
+- cuốn, tập (sách)
+@tone
+- (vật lí) âm, tông
+@top
+- đỉnh
+@topography
+- (trắc địa) khoa trắc địa
+@topological
+- (thuộc) tôpô
+@topologized
+- tôpô hoá
+@topology
+- tôpô
+- t. of a space tôpô của một không gian
+- algebraic t. tôpô đại số
+- combinatorial t. tôpô tổ hợp
+- discrete t. tôpô rời rạc
+- combinatorial t. tôpô tổ hợp
+- discrete t. tôpô rời rạc
+- general t. tôpô đại cương
+- identification t. tôpô đồng nhất hoá
+- interval t. tôpô khoảng
+- orbital t. tôpô quỹ đạo
+- order compatible t. tôpô tương thích thứ tự
+- plan t. tôpô phẳng
+- point-set t. tôpô tập điểm
+- relative t. tôpô cảm sinh
+- strong t. tôpô mạnh
+- weak t. tôpô yếu
+@tore
+- hình xuyến
+@toriod
+- (tô pô) hình phỏng xuyến
+@toroidal
+- phỏng xuyến, có hình xuyến
+@torque
+- mômen [lực, xoáy, quay]
+@torse
+- (hình học) mặt khả triển
+@torsion
+- sự xoắn, độ xoắn (của một đường cong của một nhóm)
+- t. of a space curve at a point độ xoắn của đường cong trong không gian
+- tại một điểm
+- geodesic t. (hình học) đọ xoắn trắc địa
+@torsional
+- (vật lí) xoắn
+@torus
+- hình xuyến
+@tot
+- cộng, lấy tổng
+@total
+- toàn phần, tổng cộng
+@totality
+- tổng
+@tptalization
+- (giải tích) sự lấy tổng
+@totalizator
+- (máy tính) bộ tổng, bộ đếm
+@totalize
+- lấy tổng
+@totalizer
+- bộ tổng
+@totally
+- hoàn toàn
+@totien
+- hàm Ơle
+@tower
+- tháp
+@trace
+- vết
+- t. of an element vết của một phần tử
+- t. of endomorphism vết của tự đồng cấu
+- t. of a line vết của đường thẳng
+- t. of a map (tô pô) vết của ánh xạ
+- t. of a matrix (đại số) vết của một ma trận
+- t. of a surface (hình học) vết của một mặt
+@traceable
+- vẽ được
+@tracing
+- vẽ, đựng (đường cong)
+- curve t. vẽ đường cong
+@track
+- vết, đường (mòn)
+- digit t. (máy tính) vết của chữ số (ghi trên băng từ)
+@tractrix
+- đường tractric
+- curtate t. đường trắctric co
+@tracde
+- (toán kinh tế) thương mại
+@trajectory
+- quỹ đạo
+- t. of stress quỹ đạo của ứng suất
+- indecomposable t. (tô pô) quỹ đạo không phân tách được
+- isogonal t. quỹ đạo đẳng giác
+- orthogonal t. (hình học) quỹ đạo trực giao
+@transcendence
+- tính siêu việt
+@transcendency
+- tính siêu việt
+@transcendental
+- siêu việt
+@transcribe
+- chép lại, phiên âm
+@transcriber
+- (máy tính) thiết bị chép lại
+@transcription
+- sự chép lại, sự phiên âm
+@transducer
+- (máy tính) máy biến đổi
+@transfer
+- sự di chuyển, truyền
+- energy t. sự di chuyển năng lượng
+- heat t. sự truyền nhiệt
+- momentum t. sự truyền động lượng
+@transference
+- sự di chuyển, sự truyền
+@transfinite
+- siêu hạn
+@transform
+- biến đổi; ánh xạ
+- convolution t. (giải tích) phép biến đổi tích chập
+- Laplace t. (giải tích) phép biến đổi Laplaxơ
+- linear t. phép biến đổi tuyến tính
+@transformation
+- phép biến đổi; phép ánh xạ t. by reciprocal radii phép
+- nghịch đảo
+- t. of coordinates phép biến đổi toạ độ
+- t. of function phép biến đổi hàm
+- t. of tensor phép biến đổi tenxơ
+- t. of variable phép biến đổi biến số
+- adjoint t. phép biến đổi phó
+- affine t. phép biến đổi afin
+- algebraic t. phép biến đổi đại số
+- allowable t. phép biến đổi chấp nhận được
+- analytic t. phép biến đổi giải tích
+- autoregressive t. phép biến đổi tự hồi quy
+- bilimear t. phép biến đổi song tuyến tính
+- biquadratic t. phép biến đổi trùng phương
+- birational t. phép biến đổi song hữu tỷ
+- canonical t. phép biến đổi chính tắc
+- chain t. phép biến đổi xích
+- closed t. phép biến đổi đóng, phép ánh xạ đóng
+- collineatory t. phép biến đổi cộng tuyến
+- conformal t. phép biến đổi bảo giác
+- congruent t. phép biến đổi tương đẳng
+- conjugate t. phép biến đổi liên hợp
+- continuous t. phép biến đổi liên tục
+- contractive linear t. (đại số) phép biến đổi tuyến tính co rút
+- covering t. phép ánh xạ phủ
+- cubic t. phép biến đổi bậc ba
+- cubo-cubic t. phép biến đổi 3 - 3
+- dualistic t. phép biến đổi đối ngẫu
+- elementary t. phép biến đổi sơ cấp
+- equiangular t. phép biến đổi đẳng giác
+- equiform t. phép biến đổi đẳng dạng
+- equilong t. phép biến đổi đẳng cự
+- Galilean t. phép biến đổi Galilê
+- geometric t. phép biến đổi hình học
+- homogeneos t. phép biến đổi thuần nhất
+- homothetic t. phép vị tự
+- identical t. phép biến đổi đồng nhất
+- infinitesimal t. phép biến đổi vi phân
+- inner t. (giải tích) phép biến đổi trong, phép ánh xạ trong
+- internal t. (giải tích) phép biến đổi tron, phép ánh xạ trong
+- interior t. (giải tích) phép biến đổi trong, phép ánh xạ trong
+- inverse t. phép biến đổi ngược
+- involutory t. phép biến đổi đối hợp
+- isogonal t. phép biến đổi đẳng giác
+- Laplace t. phép biến đổi Laplaxơ
+- linear t. phép biến đổi tuyến tính
+- line-sphere t. phép biến đổi tuyến cầu
+- loglog t. (thống kê) phép biến đổi lôga lặp
+- maximal t. phép biến đổi cực đại
+- metric t. phép biến đổi mêtric
+- monoidal t. phép biến đổi monoit
+- natural t. sự biến đổi tự nhiên
+- non-singular t. phép biến đổi không kỳ dị
+- normal t. phép biến đổi chuẩn tắc
+- orthogonal t. phép biến đổi trực giao
+- pedal t. phép biến đổi [bàn đạp, thuỳ túc]
+- point t. phép biến đổi điểm
+- point - curve t. phép biến đổi điểm tính
+- point - surface t. phép biến đổi điểm diện
+- polar t. phép biến đổi cực
+- projective t. phép biến đổi xạ ảnh
+- quadratic t. phép biến đổi bậc hai
+- radial t. phép biến đổi theo tia
+- reciprocal frequency t. phép biến đổi đảo tần
+- retracting t. (tô pô) phép biến đổi co rút
+- reversible t. phép biến đổi thuận nghịch
+- self-adjoint t. phép biến đổi tự phó
+- similarity t. phép biến đổi đồng dạng
+- single valued t. phép biến đổi đơn vị
+- singular t. phép biến đổi kỳ dị
+- step t. phép biến đổi bậc thang
+- symmetry t. phép biến đổi đối xứng
+- topological t. phép biển đổi tôpô
+- unimodular t. phép biến đổi đơn môđula
+- unitary t. phép biến đổi [đơn nguyên, unita]
+- univalent t. phép biến đổi đơn trị
+@transgression
+- (tô pô) sự vượt qua
+@transient
+- nhất thời
+@transistor
+- (kỹ thuật) [máy đền] bán dẫn
+@transit
+- (thiên văn) sự qua kinh tuyến
+@transitive
+- bắc cầu, truyền ứng
+- multiply t. [bắc cầu, truyền ứng] bội
+@transitively
+- một cách bắc cầu
+@transitiveness
+- sự bắc cầu, sự truyền ứng
+@transitivity
+- tính bắc cầu, tính truyền ứng
+@translate
+- tịnh tiến, dịch
+@translating
+- tịnh tiến, dịch biến đổi
+@translation
+- phép tịnh tiến, sự dịch
+- t. of axes sự tịnh tiến các trục
+- curvilinear t. tịnh tiến cong
+- isotropic t. tịnh tiến đẳng hướng
+- machine t. dịch máy
+- parallel t. (giải tích) phép tịnh tiến song song
+- positive t. phép tịnh tiến dương
+- real t. phép tịnh tiến thực
+- rectilinear t. phép tịnh tiến thẳng
+@translator
+- máy dịch
+- code t. máy dịch mã
+@transmission
+- (vật lí) sự truyền
+- t. of pressure sự truyền áp lực
+- t. of sound sự truyền âm thanh
+- multiplex t. (điều khiển học) sự truyền đa bội
+- one-way t. sự truyền một chiều
+- two-way t. sự truyền hai chiều
+@transmit
+- truyền
+@transmitter
+- (điều khiển học) máy phát
+@transmitting
+- (điều khiển học) truyền (đạt)
+@transparent
+- trong suốt
+@transport
+- vận tải
+@transportation
+- sự vận tải, sư vận chuyển
+@transpose
+- chuyển vị, đổi vế
+- t. of a matrix ma trện chuyển vị
+@transposed
+- chuyển vị
+@transposition
+- sự chuyển vị, sự đổi vế
+- regularizing t. sự chuyên vị chính quy hoá
+@transvection
+- phép co rút
+@transversal
+- đường hoành // ngang
+@transversality
+- tính chất nằm ngang
+@transverse
+- ngang
+@trapezoid
+- hình thang
+- isosceles t. hình thang cân
+@trapezoidal
+- (thuộc) hình thang
+@treat
+- xử lý; (kỹ thuật) gia công chế biến
+@tree
+- cây
+@trend
+- (thống kê) xu thế
+- analytic(al) t. xu thế thẳng
+- rectilinear t. xu thế thẳng
+- secular t. xu thế trường kỳ
+@trey
+- (lý thuyết trò chơi) ba điểm
+@triad
+- nhóm ba, bộ ba
+@triadic
+- ba ngôi
+@trial
+- phép thử, thí nghiệm
+- uniformity t. (thống kê) phép thử đều
+- t. of force tam giác lực
+- acute t. tam giác nhọn
+- astronomical t. (thiên văn) tam giác thị sai
+- birectangular spherical t. tam giác cầu hai góc vuông
+- circumscribed t. tam giác ngoại tiếp
+- congruent t.s tam giác tương đẳng
+- inscribed t. tam giác nội tiếp
+- coordinate t. tam giác toạ độ
+- copolar t. tam giác đồng cực
+- diagonal t. tam giác chéo
+- equilateral t. tam giác đều
+- geodesic t. tam giác trắc địa
+- homothetic t. tam giác vị tự
+- isosceles t. tam giác cân
+- local t. tam giác địa phương
+- oblique t. tam giác xiên
+- obtuse t. tam giác có góc tù
+- pedal t. tam giác thuỷ túc
+- perspective t.s tam giác phối cảnh
+- polar t. tam giác cực
+- rectilinear t. tam giác thẳng
+- right t. tam giác vuông
+- scalene t. tam giác thường
+- self-polar t. tam giác tự đối cực
+- similar t.s giác giác đồng dạng
+- spherical t. tam giác cầu
+- syzygetic t. tam giác hội sung
+- unit t. tam giác đơn vị
+@triangulable
+- (tô pô) tam giác phân được
+@triagular
+- (thuộc) tam giác
+@triangulate
+- tam giác phân
+@triangulated
+- (tô pô) tam giác phân
+@triangulation
+- (tô pô) phép tam giác phân, phép tam giác đạc
+@trichotomy
+- phép tam giác phân
+@trident
+- đường ba răng
+- t. of Newton đường ba răng của Niutơn
+@trifolium
+- hình ba lá
+@trigger
+- (máy tính) trigơ
+@trigonal
+- (thuộc) tam giác tam tuyến
+@trigonometric(al)
+- (thuộc) lượng giác
+@trigonometry
+- lượng giác học
+- plane t. lượng giác phẳng
+- spherical t. lượng giác cầu
+@trihedral
+- tam diện
+- coordinate t. lượng giác phẳng
+- directed t. tam diện phẳng
+- left-handed oriented t. tam diện định hướng bên trái
+- moving t. tam diện động
+- negatively oriented t. tam diện định dướng âm
+- positively orianted t. tam diện định hướng dương
+- principal t. tam diện chính
+- right-handed oriented t. tam diện định hướng bên phải
+- trirectangular t. tam diện ba góc vuông
+@trihedron
+- khối tam diện
+@trilinear
+- tam tuyến
+@trillion
+- 10 18 (Anh); 10 12 (mỹ)
+@trim
+- (cơ học) độ chênh, góc chênh
+@trinomial
+- tam thức
+@triode
+- triôt
+@triple
+- bội ba
+- t. of conjugate harmonic funcions bộ ba của các hàm điều hoà liên tục
+@triplet
+- bộ ba
+@triplet
+- bộ ba
+@triplivate
+- tăng gấp ba, bộ ba
+@triply
+- bộ ba
+@trirectangular
+- có ba góc vuông
+@trisecant
+- tam cát tuyến
+@trisect
+- chia ba
+@trisection
+- sự chia đều ba
+- t. of an angle chia đều ba một góc
+@trisectrix
+- đường chia góc làm ba (đồ thị của x 2 + xy 2 + ay 2 - 3ax 2 = 0)
+@trochoid
+- trocoit
+@trochoidal
+- (thuộc) trocoit
+@tropical
+- vl(đại số) nhiệt đới
+@troposphere
+- vl(đại số) tầng đối lưu
+@trough
+- máng, chỗ lõm
+- t. of a time series cực tiểu của chuỗi thời gian
+- t. of a wave hõm sóng
+@trump
+- (lý thuyết trò chơi) lá bài ăn, quân chủ bài
+@truncate
+- chặt, cắt cụt
+@truncated
+- bị chặt, bị cắt cụt
+@truncation
+- sự chặt cụt; sư bỏ hết các số hạng
+@truss
+- (cơ học) dàn, khung; bó, chùm
+@trust
+- sự tin tưởng; (toán kinh tế) từ rớt, tín dụng
+@try
+- thử t. back thử lại; t. for tìm
+@tsunami
+- (cơ học) sunami, sóng lớn ở đại dương
+@tube
+- ống
+- &quot;and&quot; t. đền &quot;và&quot;
+- conical t. đền ống
+- control t. đền điều khiển
+- counting t. đền đếm
+- developmental t. ống nghiệm
+- driver t. đền điều khiển
+- electron t. đền điện tử
+- memory t. ống nhớ
+@tuner
+- (kỹ thuật) thiết bị điều hưởng
+@tunnel
+- đường hầm, ống
+@turbine
+- (kỹ thuật) tuabin
+@turbulence
+- giác loạn
+@turbulent
+- rối loạn, cuộn xoáy
+@turn
+- quay, mở, vặn; trở thành t. about lật (quay 180
+- 0 ); t. of đóng, ngắt; t.
+@on
+- mở, bật; t. to quay về; t. up lật ngược; lột rõ
+@turning
+- sự quay, sự thay đổi
+@turnover
+- vòng quay, sự tròn xoay
+@twain
+- bộ hai, một cặp in t. làm hai, chia đôi
+@twelfth
+- thứ mười hai; một phần mười hai
+@twelve
+- mười hai
+@twenteith
+- thứ hai mươi, một phần hai mươi
+@twenty
+- hai mươi (20)
+@twice
+- gấp đôi, hai lần
+@twin
+- sinh đôi
+- prime t.s số nguyên, số sinh đôi
+@twist
+- xoắn; (kỹ thuật) bước của đỉnh ốc
+- negative t. độ xoắn âm
+- positive độ xoắn dương
+@twisting
+- xoắn
+@two
+- hai (2); một cặp, một đôi
+@two-position
+- hai vị trí
+@two-sided
+- hai phía
+@two-stage
+- hai bước
+@two-way
+- theo hai hướng, hai cách, hai đường
+@type
+- kiểu
+- t. of s Riemann surface (giải tích) kiểu của mặt Riman
+- homotopy t. kiểu đồng luân
+- italie t. kiểu chữ nghiêng
+- order t. kiểu thứ tự
+- remainder t. kiểu dư
+- topological t. kiểu tôpô
+- weak homotopy t. kiểu đồng luân yếu
+@typer
+- (máy tính) thiết bị in
+@typieal
+- điển hình
+@U- equivalence
+- u-tương đương
+@ulterior
+- ở sau, tiếp sau
+@ultimate
+- cuối cùng; tới hạn
+@ultimetely
+- tới hạn
+@ultrafilter
+- (đại số) siêu lọc
+@ultragroup
+- (đại số) siêu nhóm
+@ultrasonic
+- (vật lí) siêu âm
+@ultraspherical
+- siêu cầu
+@ultrasble
+- siêu ổn định
+@ultra-violet
+- (vật lí) cực tím
+@umbilical
+- (thuộc) điểm rốn, đường rốn
+- totally u. điểm rốn toàn phần
+@umbilics
+- điểm rốn
+@umbra
+- (thiên văn) sự che khuất toàn phần
+@unabridged
+- không rút gọn
+@unalter
+- không đổi
+@unbalance
+- (điều khiển học) tính không cân bằng
+@unbias(s)ed
+- (thống kê) không chệch
+@unblocking
+- (máy tính) mở
+@unbounded
+- không xác định, dao động, không chắc chắn, bất định
+@uncertainty
+- tính bất định, tính không chắc chắn
+@unconditional
+- vô điều kiện, tuyệt đối
+@unconditionally
+- một cách vô điều khiện, tuyệt đối
+@unconnected
+- không liên thông
+@unconstrained
+- không có liên quan; không có giới hạn
+@uncountable
+- không đếm được
+@uncouple
+- tách ra
+@undamped
+- không tách dần
+@undecidability
+- (logic học) tính không giải được
+@essential
+- u. tính không giải được cốt yếu
+@undecidable
+- (logic học) không giải được
+@undefined
+- không xác định
+@underline
+- (sự) gạch dưới // nhấn mạch
+@underneath
+- ở dưới
+@underpolynomial
+- (giải tích) đa thức dưới
+@under relaxation
+- sự luỹ biến dưới, sự giảm dư dưới
+@understand
+- hiểu
+@undervalue
+- đánh giá thấp
+@underwater
+- nước ngầm
+@undetermined
+- bất định
+@undirected
+- không định hướng
+@undulate
+- (vật lí) chuyển động sóng
+@undulation
+- sự chyển động sóng
+@unequal
+- không cân bằng, không bằng
+@unessential
+- không cốt yếu
+@uneven
+- không chẵn
+@unfavourable
+- không thuận lợi
+@ungula
+- múi
+@uniaxial
+- đơn trục
+@unicity
+- tính duy nhất
+@unicoherent
+- đính đơn, mạch lạc đơn
+@unicursal
+- đơn hoạch
+@unidirectional
+- (điều khiển học) đơn hướng, có một bậc tự do
+@unification
+- sự thống nhất, sự hợp nhất
+@unified
+- thống nhất, hợp nhất
+@uniform
+- đều
+@uniformise
+- đơn trị hoá
+@uniformity
+- tính đều; tính đơn trị
+@uniformization
+- (giải tích) sự đơn trị hoá, sự làm đều
+- u. of analytic function sự đơn trị hoá một hàm giải tích
+@uniformize
+- (giải tích) đơn trị hoá
+@uniformizing
+- (giải tích) đơn trị hoá
+@uniformly
+- đều
+@unify
+- hợp nhất, thống nhất
+@unilateral
+- (thống kê) một phía
+@unimodal
+- (thống kê) một mốt
+@unimodular
+- (đại số) đơn môđula
+@union
+- hợp
+- u. of sets hợp nhất của các tập hợp
+- u. of spheres (tô pô) bó hình cầu
+- direct u. (đại số) hợp trực tiếp
+@unipotent
+- luỹ đơn
+@unique
+- duy nhất, đơn trị
+@uniqueness
+- tính duy nhất; tính đơn trị
+- u. of solution tính duy nhất của nghiệm
+@unirational
+- hh; (đại số) đơn hữu tỷ
+@uniselector
+- (máy tính) bộ tìm xoay tròn, bộ chọn đơn
+@uniserial
+- (đại số) một chuỗi
+@unit
+- đơn vị
+- u. of a group đơn vị của một nhóm
+- absolute u. (vật lí) đơn vị tuyệt đối
+- arithmetic u. (máy tính) đơn vị số học, bộ số học
+- calibrator u. bộ định cỡ, bộ định các hệ số
+- computing u. (thống kê) đơn vị tính toán, đơn vị tỷ lệ
+- defective u. (thống kê) đơn vị khuyết tật, đơn vị phế phẩm
+- dimensional u. đơn vị thứ nguyên
+- driver u. đơn vị điều khiển
+- elementary u. khối sơ cấp
+- flexible u. (máy tính) đơn vị vạn năng
+- function u. (máy tính) đơn vị hàm
+- fundamental u. đơn vị cơ bản
+- hysteresis u. đơn vị trễ
+- imaginary u. đơn vị ảo
+- input-output u. đơn vị vào _ ra
+- matrix u. (đại số) ma trận đơn vị
+- middle u. (đại số) đơn vị giữa
+- multiplication - division u. (máy tính) đơn vị nhân - chia
+- multiplying u. đơn vị nhân
+- primary u. phần tử sơ cấp
+- sample u. đơn vị mẫu
+- sampling u. đơn vị mẫu
+- secondary u. đơn vị thứ cấp (của giai đoạn lấy mẫu thứ hai)
+- spare u. (máy tính) đơn vị dự trữ
+- strong u. đơn vị mạnh
+- translator u. đơn vị dịch
+- weak u. đơn vị yếu
+@unitcircle
+- (giải tích) vòng tròn đơn vị
+@unitary
+- unita, đơn nguyên đơn vị
+@unite
+- hợp nhất
+@unity
+- phần tử đơn vị; sự thống nhất; duy nhất
+@univalence
+- (giải tích) đơn diệp, đơn giá
+- locally u. (giải tích) đơn diệp địa phương
+@universal
+- phổ dụng
+@universe
+- vũ trụ
+- expanding u. vũ trụ mở rộng
+@unknotted
+- (tô pô) không nút
+@unknown
+- chưa biết ẩn
+@unlimited
+- vô hạn, không giới hạn
+@unmatched
+- không bằng, không xứng
+@unmixed
+- không hỗn tạp
+@unnecessary
+- không cần thiết
+@unnumbered
+- không được đánh số
+@unobservable
+- không quan sát được
+@unpack
+- tháo dỡ
+@unperturbed
+- không bị nhiễu loạn
+@unprpvable
+- không chứng minh được
+@unproved
+- chưa chứng minh
+@unramified
+- không rẽ nhánh
+@unreliable
+- không tin cậy
+@unrestricted
+- không hạn chế
+@unsaturated
+- (điều khiển học) không bão hoà
+@unsolvability
+- (logic học) tính không giải được
+- recursive u. không giải được đệ quy
+@unsolvable
+- không giải được
+@unsolved
+- không giải
+@unstable
+- không ổn định
+@unsteady
+- không ổn định
+@until
+- cho đến, đến khi
+@upcross
+- (thống kê) sự dương hoá
+@upper
+- trên
+@upsilon
+- epxilon (&#949;)
+@up-stream
+- ngược dòng
+@up-to-date
+- hiện đại
+@urn
+- (cái) bình
+@usage
+- sự sử dụng
+@use
+- dùng
+@useful
+- có ích
+@useless
+- vô ích
+@usual
+- thường, thông dụng
+@utility
+- ích lợi
+@utilization
+- sự sử dụng
+@utilize
+- dùng
+@Vacancy
+- chỗ trống
+@vacnant
+- trống, rỗng; tự do
+@vacillation
+- sự dao động
+@vacuous
+- rỗng
+@vacuum
+- (vật lí) Chân không
+@vague
+- mơ hồ, không rõ ràng
+@vagueness
+- tính mơ hồ, tính không rõ ràng
+@valid
+- có hiệu lực to be v. có hiệu lực
+@validation
+- (thống kê) sự thừa nhận (tính khách quan của mẫu)
+@validity
+- tính có hiệu lực
+@valuation
+- ước lượng; (đại số) đánh giá; định giá; sự chuẩn hoá; mêtric hoá
+- discrete v. (đại số) sự định giá rời rạc
+- effective v. (đại số) đánh giá có hiệu quả
+@value
+- giá trị
+- v. of a game (lý thuyết trò chơi) Giá trị của trò chơi
+- v. of an insurance policy giá trị của chế độ bảo hiểm
+- v. of series giá trị của chuỗi
+- v. of variables giá trị của biến số
+- alsolute v. giá trị tuyệt đối
+- accumutated v. of an annuity giá trị của tích luỹ một năn
+- algebraic v. giá trị đại số
+- approximate v. giá trị xấp xỉ, giá trị gần đúng
+- asymptotic(al) v. giá trị tiệm cận
+- average v. giá trị trung bình
+- boundary v. giá trị biên
+- Cauchy principal v. giá trị của chính Cauxi
+- characteristic v. giá trị đặc trưng
+- critical v. giá trị tới hạn
+- defective v. (giải tích) giá trị khuyết
+- end v. giá trị cuối
+- exchange v. giá trị trao đổi
+- expected v. (thống kê) kỳ vọng, giá trị kỳ vọng
+- face v. giá trị bề mặt
+- improved v. giá trị đã hiệu chỉnh
+- inaccessible v. giá trị không đạt được
+- isolated v. giá trị cô lập
+- market v. giá trị thường
+- maximal v. giá trị cực đại
+- mean v. giá trị trung bình
+- minimum v. giá trị cực tiểu
+- modal v. (thống kê) giá trị có tần suất cao nhất, giá trị mốt
+- numerical v. giá trị bằng số
+- observed v. giá trị quan sát
+- par v. giá trị pháp đỉnh
+- permissible v. giá trị cho phép
+- predicted v. giá trị tiên đoán
+- present v. giá trị hiện có
+- principal v. giá trị chính
+- provable v. giá trị có thể
+- proper v. giá trị riêng
+- reduced v. giá trị thu gọn
+- stationary v. giá trị dừng
+- surplus v. (toán kinh tế) giá trị thặng dư
+- true v. giá trị đúng
+- truth v. (logic học) giá trị chân lý
+@vanish
+- triệt tiêu; biến mất
+@vanishing
+- triệt tiêu; biến mất
+- identically v. đồng nhất triệt tiêu, đồng nhất bằng không
+@vaporization
+- (vật lí) sự bốc hơi, sự hoá hơi
+@variability
+- (thống kê) [tính, độ] biến đổi
+@variable
+- biến (số) // biến thiên, biến đổi
+- additional v. biến thêm
+- aleatory v. biến ngẫu nhiên
+- apparent v. biến biểu kiến
+- aritificial v. biến giả tạo
+- auxiliary v. biến bổ trợ, biến phụ
+- bound v. biến buộc
+- chance v. biến ngẫu nhiên
+- complex v. biến phức
+- concomitant v. (thống kê) biến đồng hành
+- constrained v. (thống kê) biến buộc
+- contibuous v. biến liên tục
+- contragradient v. biến phản bộ
+- controlled v. biến bị điều khiển
+- dependent v. biến phụ thuộc
+- direction v. biến chỉ phương
+- dummy v. biến giả
+- effect v. (thống kê) biến phụ thuộc
+- esential v. biến cốt yếu
+- Eulerian v.s các biến Ơle
+- free v. biến tự do
+- hypercomplex v. biến siêu phức
+- independent v. (giải tích) biến độc lập
+- individual v. (logic học) biến cá thể
+- indution v. biến quy nạp
+- input v. biến số vào
+- latent v. biến ẩn
+- leading v. biến số chính
+- main v. (điều khiển học) biến số chính
+- marker v. (thống kê) biến số lưỡng trị
+- missing v. (điều khiển học) biến thiếu
+- number v. (logic học) biến số
+- numerical v. biến số
+- object v. (logic học) biến đối tượng
+- orientation v.s các biến định hướng
+- predicate v. biến vị từ
+- process v. biến điều chỉnh
+- proposition v. biến mệnh đề
+- random v. (thống kê) biến ngẫu nhiên
+- real v. biến thực
+- space v. (giải tích) biến không gian
+- stochastic v. biến ngẫu nhiên
+- superfluous v.s (thống kê) các biến thừa
+- theoretiv(al) v. (thống kê) biến lý thuyết
+- unrestricted v. biến tự do
+@variance
+- (thống kê) phương sai
+- accidental v. phương sai ngẫu nhiên
+- external v. phương sai ngoài
+- generlized v. phương sai suy rộng
+- interclass v. phương sai giữa các lớp
+- internal v. phương sai trong
+- minimun v. phương sai nhỏ nhất
+- relative v. phương sai tương đối (bình phương của số biến thiên)
+- residual v. phương sai thặng dư
+- within-group v. phương sai trong nhóm
+@variant
+- biến thức, khác nhau
+@variate
+- (thống kê) biến ngẫu nhiên; đại lượng ngẫu nhiên
+@variation
+- sự biến thiên, biến phân
+- v. of a function biến phân của hàm
+- v. of parameters biến thiên tham số
+- v. of sign in a polynomial sự biến dấu trong một đa thức
+- admissible v. biến phân chấp nhận được
+- batch v. biến phân trong nhóm
+- bounded v. biến phân bị chặn
+- combined v. biến phân liên kết
+- direct v. biến thiên trực tiếp
+- first v. biến phân thứ nhất
+- free v. biến phân tự do
+- inverse v. biến phân ngược
+- limited v. biến phân [bị cặn, giới nội]
+- negative v. biến phân âm
+- one-sided v. biến phân một phía
+- partial v. biến phân riêng
+- positive definite second v. biến thiên thứ hai xác định dương
+- second v. biến phân thứ hai
+- strong v. biến phân mạch
+- third v. biến phân thứ ba
+- total v. of a function biến phân toàn phần của một hàm
+- weak v. biến phân yếu
+@variational
+- (thuộc) biến phân
+@variety
+- hh; ds. đa tạp; tính đa dạng
+- Abelian v. đa tạp Abel
+- exceptional v. đa tạp ngoại lệ
+- group v. đa tạp nhóm
+- irreducible v. đa tạp không khả quy
+- jacobian v. đa tạp jacobi
+- minimal v. đa tạp tối thiểu, đa tạp cực tiểu
+- polarized v. đa tạp phân cực
+- pure v. đa tạp thuần tuý
+- reducible v. đa tạp khả quy
+- requisit v. (điều khiển học) tính đa dạng cần thiết
+- semi-pure v. đa tạp bán thuần tuý
+- solvable group v. đa tạp nhóm giải được
+- unirational v. đa tạp đơn hữu tỷ
+@various
+- khác nhau
+@variplotter
+- (máy tính) máy dựng đường cong tự động
+@vary
+- biến đổi, biến thiên
+- to v.directly biến đổi theo tỷ lệ thuận; to v. inversely biến đổi theo tỷ lệ
+- ngược
+@vast
+- rộng, to, lớn
+@vector
+- vectơ
+- axial v. xectơ trục
+- basis . xectơ cơ sở
+- bound v. vectơ buộc
+- characterictic v. vectơ [đặc trưng, riêng]
+- complement v. vectơ bù
+- complanar v. vectơ đồng phẳng
+- correction v. vectơ hiệu chính
+- dominant v. vectơ trội
+- irroational v. vectơ vô rôta
+- latent v. vectơ riêng
+- localized v. (hình học) vectơ buộc
+- mean curvature v. vectơ độ cong trung bình
+- non-vanishing v. (hình học) vectơ không gian
+- normal curvature v. vectơ độ cong pháp tuyến
+- orthogonal v. vectơ trục giao
+- orthonormal v.s vectơ trục chuẩn
+- porla v. vectơ cực
+- polarization v. vectơ phân cực
+- price v. vectơ giá
+- probability v. vectơ xác suất
+- radius v. vectơ bán kính
+- row v. vectơ hàng
+- sliding v. vectơ trượt
+- symbolic v. vectơ kí hiệu
+- tangent v. vectơ tiếp xúc
+- unit v. vectơ đơn vị
+- velocity v. (vật lí) vectơ vận tốc
+- zero v. vectơ không
+@vectorial
+- (thuộc) vectơ
+@velocity
+- vận tốc, tốc độ
+- absolute v. vận tốc tyệt đối
+- amplitude v. vận tốc biên độ
+- angular v. vận tốc góc
+- areal v. vận tốc diện tích
+- average v. vận tốc trung bình
+- critical v. vận tốc tới hạn
+- group v. vận tốc nhóm
+- instantaneous v. vận tốc tức thời
+- linear v. tốc độ chuyển động thẳng, vận tốc dài
+- mean v. tốc độ trung bình
+- peripheric v. vận tốc biên
+- phase v. vận tốc pha
+- pressure v. vận tốc nén
+- ray v. vận tốc theo tia
+- relative v. (cơ học) vận tốc tương đối
+- shock v. vận tốc kích động
+- signal v. vận tốc tín hiệu
+- terminal v. vận tốc cuối
+- terbulent v. vận tốc xoáy
+- uniform angular v. vận tốc góc đều
+- wave v. vận tốc sóng
+- wave-front v. vận tốc đầu sóng
+@verifiable
+- thử lại được
+@verification
+- [sợ,phép] thử lại
+@verify
+- thử lại
+@vernier
+- con chạy (thước vecnie)
+@versiera
+- vécsơra (đồ thị của y(a 2 +x 2 )=a 3 )
+@vertex
+- đỉnh; (thiên văn) thiên đỉnh
+- v. of an angle đỉnh của một góc
+- v. of a cone đỉnh của một tam giác
+- neutral v. đỉnh trung tính; đỉnh trung hoà
+@vertical
+- thẳng đứng
+@vertically
+- một cách thẳng đứng
+@vertices
+- các đỉnh
+- adjacent v. các đỉnh kề
+- neighbouring v. các đỉnh lân cận
+- opposite v. of a polygon các đỉnh đối (của một đa diện)
+@vessel
+- (kỹ thuật) tàu, thuyền
+@vibrate
+- dao động, chấn động, rung động
+@vibration
+- (vật lí) sự dao động, sự chấn động, sự rung
+- v. of the second order chấn động cấp hai
+- damped v. dao động tắt dần
+- forced v. dao động cưỡng bức
+- harmonic v. dao động điều hoà
+- inaudible v. dao động không nghe thấy được
+- lateral v. dao động ngang
+- longitudinal v. dao động dọc
+- natural v. dao động co lắc
+- sinusoidal v. dao động sin
+- standing v. dao động đứng
+- sympathetic v. chấn động đáp lại
+- torsional v. dao động xoắn
+@vibrational
+- có dao động, có chấn động, có rung động
+@vibrator
+- (kỹ thuật) cái dao động; [cái, bộ] rung
+- asymmetric(al) v. cái dao động không đối xứng
+@vice versa
+- ngược lại
+@vicinity
+- lân cận in the v. of... gần ...
+- v. of a point lân cận của một điểm
+@view
+- dạng; phép chiếu
+- in v. of theo, chú ý...
+- auxiliary v. (hình học) pháp chiếu phụ
+- front v. nhìn từ trước, hình chiếu từ trước
+- principal v. (hình học) phép chiếu chính
+- rear v. nhìn từ sau
+- side v. (hình học) nhìn từ một bên, nhìn ngang
+@vinculum
+- dấu gạch trên biểu thức
+@viscosity
+- độ nhớt
+- dynamic v. độ nhớt động lực
+- eddy v. độ nhớt xoáy
+- kinematical v. (vật lí) độ nhớt động học
+@viscous
+- (vật lí) (thuộc) nhớt
+@voltage
+- thế hiệu
+- instantanneous v. thế hiệu tức thời
+- steady stale v. thế hiệu ổn định
+@volume
+- khối, thể tích; tập (sách báo)
+- v. of a solid thể tích của một vật thể
+- incompressible v. thể tích không nén được
+@volote
+- đường xoắn ốc
+@vortex
+- rôta, cái xoáy, dòng xoáy
+- bound v. cơ, rôta biên
+- forced v. rôtacưỡng bức
+- free v. rôta tự do
+- spherical v. rôta cầu
+- trailing v. cơ, rôta cuối, cái xoáy đầu mút
+@vortical
+- (thuộc) rôta, xoáy
+@vorticity
+- (vật lí) tính xoáy
+@vrai
+- thật sự
+@wage
+- (toán kinh tế) lương
+@weges-fund
+- quỹ tiền lương
+@wake
+- (cơ học) vết sóng; đuôi sóng; dòng đuôi
+- vortex w. màng xoáy; màng rôta
+@walk
+- đi; (thống kê) di động
+- random w. di động ngẫu nhiên
+@wander
+- di động
+@wandering
+- (thống kê) di động
+@ware
+- (thống kê) hàng hoá
+@warn
+- báo trước lưu ý
+@warranty
+- (toán kinh tế) bảo đảm
+@water
+- nước
+@waterfall
+- thác nước
+@water-hammer
+- cú đập thuỷ lực
+@wave
+- sóng
+- w. of dilatation sóng nở
+- w. of earth quake sóng địa chấn
+- breaking w. sóng vỡ
+- bow w. đầu sóng
+- circular w. sóng tròn
+- circularly polarized w. sóng phân cực tròn
+- complementary w. sóng bù
+- compressional w. sóng nén
+- damped w. sóng tắt dần
+- deression w. sóng thấp; sóng thưa
+- dilatation w. sóng nở
+- distortional w. sóng xoắn
+- diverging w. sóng phân kỳ
+- double w. sóng kép
+- elastic w. sóng đàn hồi
+- H w.s sóng H
+- incident w. sóng tới
+- internal w. sóng trong
+- linear w. sóng tuyến tính
+- longitudinal w. sóng dọc
+- medium w.s sóng giữa
+- nonlinear w. sóng phi tuyến
+- parallel w.s các sóng song song
+- plane w. sóng phẳng
+- polarized w. sóng phân cực
+- precompression w. sóng dự áp (sóng có áp suất trước)
+- pressure w. sóng áp
+- principal w. sóng chính
+- progressive w. (vật lí) sóng [chạy, sóng tiến, lan truyền]
+- quasi-simple w. sóng tựa đơn
+- radio w. sóng vô tuyến
+- reflected w. sóng phản xạ
+- roll w. sóng lăn
+- scattered w. sóng tán
+- shear w. sóng trượt
+- shock w. sóng kích động; sóng va chạm
+- solitary w. (cơ học) sóng cô độc
+- spherical w. sóng cầu
+- standing w. sóng đứng
+- stationery w. sóng dừng
+- symmetric w. sóng đối xứng
+- travelling w. (vật lí) sóng chạy [tiến, lan truyền]
+- transverse w. sóng ngang
+- trochoidal w. sóng trocoit
+@wave-crest
+- ngọn sóng
+@waveform
+- (điều khiển học) dạng sóng (của tín hiệu )
+@waveguide
+- (kỹ thuật) ống dẫn sóng; đường sóng
+@wave-lenght
+- (vật lí) độ dài sóng, bước sóng
+@way
+- con đường; phương pháp
+- w. of behavior (điều khiển học) phương pháp sử lý
+@weak
+- yếu
+@weakly
+- yếu
+@web
+- lưới
+- w. of curver lưới các đường cong
+@wedge
+- cái chền, cái chêm
+- elliptic w. cái chêm eliptic
+- spherical w. cái chêm cầu
+@weigh
+- cân
+@weight
+- trọng lượng
+- balnce w. đối trọng
+- gross w. trọng lượng cả bì
+- moving w.s cân trượt
+@weighted
+- có trọng lượng
+@weighting
+- sự cân // có trọng lượng
+@well-ordered
+- được sắp tốt
+@whirl
+- chuyển động xoáy
+@whiling
+- xoáy
+@white
+- trắng
+@whole
+- toàn bộ, tất cả, nguyên
+@wholeness
+- tính [toàn bộ, nguyên]
+@wholesale
+- (toán kinh tế) (mua; bán) buôn
+@wide
+- rộng, rộng rãi
+@width
+- chiều rộng; vĩ độ
+- reduced w. độ rộng rút gọn
+@winding
+- [vòng, sự] quay; sự uốn
+@wing
+- (cơ học) cánh
+- cantiliver w. cánh mạng tự do
+- swept w. (cơ học) cánh hình mũi tên
+@winning
+- được cuộc, thắng cuộc
+@word
+- từ
+- coded w. từ mã
+- commutator w. từ hoán tử
+- empty w. (logic học) từ rỗng
+- ideal w. (máy tính) từ lý tưởng
+- n-digit w. từ n- chữ, từ n-dấu
+@work
+- (vật lí) công; công trình
+- elementary w. công sơ cấp, công nguyên tố
+- paysheet w. (máy tính) lập phiếu trả
+- useful w. công có ích
+- virtual w. công ảo
+@worth
+- giá
+- w. of a game (lý thuyết trò chơi) giá của trò chơi
+@wreath
+- bện
+@wite
+- viết
+@wrong
+- sai
+@xi
+- ski (&#958;)
+@x-rays
+- tia x, tia rơn ghen
+@year
+- năm
+- commercial y. (toán kinh tế) năm thương mại (360 ngày)
+- fiscal y. năm tài chính
+- leap y. năm nhuận
+- light y. (thiên văn) năm ánh sáng
+- sidereal y. năm vũ trụ (365 ngày)
+@yield
+- cho; tiến hành
+@zenith
+- thiên đỉnh
+@zero
+- zerô, số không, không điểm
+- z. order n không điểm cấp n
+- simple z. không điểm đơn
+@zeta
+- zeta (&#950;)
+@zigzag
+- đường díc dắc, đường chữ chi
+@zodiac
+- (thiên văn) hoàng đạo
+@zodiacal
+- (vật lí) (thuộc) hoàng đạo
+@zonal
+- (thuộc) đới, theo đới
+@zone
+- đới, miền, vùng
+- z. of plow đới của dòng
+- z. of infection vùng ảnh hưởng
+- z. of one base chỏm cầu
+- z. of preference (toán kinh tế) vùng quyết định cuối cùng
+- z. of a sphere đới cầu
+- communication z. vùng liên lạc
+- dead z. (điều khiển học) vùng chết
+- determinate z. miền quyết định
+- inert z. vùng không nhạy
+- neutralizing z. vùng trung lập
+- spherical z. đới cầu
