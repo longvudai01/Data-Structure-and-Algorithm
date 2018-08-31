@@ -9,7 +9,7 @@
 import Foundation
 
 public func loaddata() -> [String:String] {
-    let path = "/Users/dailong/OneDrive - Hanoi University of Science and Technology/LEARNED/DATA STRUCTURE AND ALGORITHM/Data Structure and Algorithm/Bai5_thayHiep Dictionary using AVL/anhviet109K.dict"
+    let path = "/Users/dailong/OneDrive - Hanoi University of Science and Technology/LEARNED/DATA STRUCTURE AND ALGORITHM/Data Structure and Algorithm/Dictionary using AVL/anhviet109K.dict"
     var dic:[String: String] = [:]
     var text: [String] = []
     do {
